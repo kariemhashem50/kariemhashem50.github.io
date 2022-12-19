@@ -1,1 +1,5 @@
+# Jekyll configuration
+name: Kariem Hashem
+description: Kariem Hashem's personal website
+url: "kariemhashem50.github.io"
 theme: cayman
